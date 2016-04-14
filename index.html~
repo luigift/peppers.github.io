@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  </head>
+
+  <body class="teste">
+    <div class="container-fluid">
+      
+   <!-- <div class="row"> -->
+      <!-- 	<div class="col-xs-3"/> -->
+      <!-- 	<div class="col-xs-3"> -->
+      <!-- 	  <img class="img-responsive center-block" src="img/peppers_white.png"/> -->
+      <!-- 	</div> -->
+      <!-- 	<div class="col-xs-3"> -->
+      <!-- 	  <h1 class="text-center" style="color:white;"> Peppers </h1> -->
+      <!-- 	</div> -->
+      <!-- 	<div class="col-xs-3"/> -->
+      <!-- </div> -->
+
+      <div class="row">
+	<div style="heigth=300px;" class="col-xs-6" >
+	  <img class="img-responsive center-block" src="img/iphone_white.png"/>
+	</div>
+	<div class="col-xs-6">
+	  <img class="img-responsive center-block" src="img/iphone_black.png"/>
+	</div>
+      </div>
+
+      <div class="row">
+	<!-- <img src="img/user_picture.jpg" class="img-responsive img-circle" alt="Cinque Terre" width="200" height="200"> -->
+	<div class="col-xs-8"></div>
+	<div class="col-xs-4">
+	  <a href='http://play.google.com/store?utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-ap-PartBadge-Mar2515-1'><img class="img-responsive" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png'/></a> <br>
+	  <a href='http://play.google.com/store?utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-ap-PartBadge-Mar2515-1'><img class="img-responsive" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png'/></a>
+	</div>
+
+      </div>
+      
+    </div>
+  </body>  
+
+</html>

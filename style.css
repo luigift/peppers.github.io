@@ -1,0 +1,14 @@
+h1 {
+    color: navy;
+    margin: auto;
+    backgroung-color: #ff83f2;
+}
+
+.iphone .img-responsive {
+    margin: 0 auto;
+    background-color: #ff3333;
+}
+
+.teste {
+    background-color: #ff3333;
+}
